@@ -10,7 +10,7 @@ The fonts were retrieved from my M1 Macbook Air. Every common and neccessary fon
 
 ### The purpose of this
 
-I thought it would be usefull to be able for anyone to easily access fonts they need. For example, Windows does not come with Helvetica Nueue, but OS X does!
+I thought it would be useful to be able for anyone to easily access fonts they need. For example, Windows does not come with Helvetica Nueue, but OS X does!
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Helvetica_Neue_typeface_weights.svg/1280px-Helvetica_Neue_typeface_weights.svg.png" alt="Helvetica Nueue font" style="zoom: 10%;" />
 
