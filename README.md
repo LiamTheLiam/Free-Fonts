@@ -1,5 +1,9 @@
 # Free Fonts
 
+## Important for Windows users!
+
+Some of the included fonts cannot be installed in Windows as they are since they are .ttc (TrueType Collection, which is a file that contains multiple font files in one). If you want to install these fonts you have to extract them from their collections into individual files. You can do that using [this site](https://transfonter.org/ttc-unpack).
+
 ## About
 
 This repository consists of **540** files with many popular fonts all provided for free.
