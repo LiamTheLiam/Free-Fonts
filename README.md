@@ -38,4 +38,4 @@ If there are any fonts or typefaces that you would like added, please contact me
 
 ## Font list
 
-Please refer to Font-List.md for the list of included fonts.
+Please refer to [Font-List.md](Font-List.md) for the list of included fonts.

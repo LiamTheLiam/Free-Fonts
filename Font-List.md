@@ -1,1089 +1,724 @@
-# List of Fonts Included
-
-I may or may not update this list if fonts are added.
-
-
-
-You can use this list to see if there is a font you want included.
-
-
-
-Academy Engraved LET Fonts.ttf
-
-AdelleSans.ttc
-
-AkayaKannada.ttf
-
-AkayaTelivigala.ttf
-
-Al Nile.ttc
-
-Al Tarikh.ttc
-
-AlBayan.ttc
-
-AmericanTypewriter.ttc
-
-Andale Mono.ttf
-
-AnnaiMN.ttf
-
-Apple Braille Outline 6 Dot.ttf
-
-Apple Braille Outline 8 Dot.ttf
-
-Apple Braille Pinpoint 6 Dot.ttf
-
-Apple Braille Pinpoint 8 Dot.ttf
-
-Apple Braille.ttf
-
-Apple Chancery.ttf
-
-Apple Color Emoji.ttc
-
-Apple LiGothic Medium.ttf
-
-Apple LiSung Light.ttf
-
-Apple Symbols.ttf
-
-AppleGothic.ttf
-
-AppleMyungjo.ttf
-
-AppleSDGothicNeo.ttc
-
-AquaKana.ttc
-
-Arial Black.ttf
-
-Arial Bold Italic.ttf
-
-Arial Bold.ttf
-
-Arial Italic.ttf
-
-Arial Narrow Bold Italic.ttf
-
-Arial Narrow Bold.ttf
-
-Arial Narrow Italic.ttf
-
-Arial Narrow.ttf
-
-Arial Rounded Bold.ttf
-
-Arial Unicode.ttf
-
-Arial.ttf
-
-ArialHB.ttc
-
-ArimaKoshi.ttc
-
-ArimaMadurai.ttc
-
-Avenir Next Condensed.ttc
-
-Avenir Next.ttc
-
-Avenir.ttc
-
-Ayuthaya.ttf
-
-BMDoHyeon-Regular.otf
-
-BMHanna11yrs-Regular.otf
-
-BMHannaAir-Regular.otf
-
-BMHannaPro-Regular.otf
-
-BMJua-Regular.otf
-
-BMKirangHaerang-Regular.otf
-
-BMYeongSung-Regular.otf
-
-Baghdad.ttc
-
-Baijam.ttc
-
-Baloo-Devanagari.ttc
-
-BalooBhai-Gujarati.ttc
-
-BalooBhaijaanUrdu-Regular.ttf
-
-BalooBhainaOdia.ttc
-
-BalooChettanMalayalam.ttc
-
-BalooDaBanga.ttc
-
-BalooPaajiGurmukhi.ttc
-
-BalooTammaKannada.ttc
-
-BalooTammuduTelugu.ttc
-
-BalooThambiTamil.ttc
-
-Bangla MN.ttc
-
-Bangla Sangam MN.ttc
-
-Baoli.ttc
-
-Baskerville.ttc
-
-Beirut.ttc
-
-BiauKai.ttf
-
-BigCaslon.ttf
-
-Bodoni 72 OS.ttc
-
-Bodoni 72 Smallcaps Book.ttf
-
-Bodoni 72.ttc
-
-Bodoni Ornaments.ttf
-
-Bradley Hand Bold.ttf
-
-Brush Script.ttf
-
-CambayDevanagari.ttc
-
-Canela.ttc
-
-CanelaDeck.ttc
-
-CanelaText.ttc
-
-ChakraPetch.ttc
-
-Chalkboard.ttc
-
-ChalkboardSE.ttc
-
-Chalkduster.ttf
-
-Charm.ttc
-
-Charmonman.ttc
-
-Charter.ttc
-
-Cochin.ttc
-
-Comic Sans MS Bold.ttf
-
-Comic Sans MS.ttf
-
-Copperplate.ttc
-
-Corsiva.ttc
-
-Courier New Bold Italic.ttf
-
-Courier New Bold.ttf
-
-Courier New Italic.ttf
-
-Courier New.ttf
-
-Courier.ttc
-
-DIN Alternate Bold.ttf
-
-DIN Condensed Bold.ttf
-
-Damascus.ttc
-
-DecoTypeNaskh.ttc
-
-Devanagari Sangam MN.ttc
-
-DevanagariMT.ttc
-
-Didot.ttc
-
-Diwan Kufi.ttc
-
-Diwan Thuluth.ttf
-
-DomaineDisplay.ttc
-
-EuphemiaCAS.ttc
-
-FahKwang.ttc
-
-Farah.ttc
-
-Farisi.ttf
-
-FoundersGrotesk.ttc
-
-FoundersGroteskCondensed.ttc
-
-FoundersGroteskText.ttc
-
-Futura.ttc
-
-Galvji.ttc
-
-GeezaPro.ttc
-
-Geneva.ttf
-
-Georgia Bold Italic.ttf
-
-Georgia Bold.ttf
-
-Georgia Italic.ttf
-
-Georgia.ttf
-
-GillSans.ttc
-
-GotuDevanagari-Regular.ttf
-
-Graphik.ttc
-
-GraphikCompact.ttc
-
-Gujarati Sangam MN.ttc
-
-GujaratiMT.ttc
-
-Gungseouche.ttf
-
-Gurmukhi MN.ttc
-
-Gurmukhi Sangam MN.ttc
-
-Gurmukhi.ttf
-
-Hannotate.ttc
-
-Hanzipen.ttc
-
-HeadlineA.ttf
-
-Hei.ttf
-
-HelveLTMM
-
-Helvetica.ttc
-
-HelveticaNeue.ttc
-
-Herculanum.ttf
-
-Hiragino Sans CNS.ttc
-
-Hiragino Sans GB.ttc
-
-Hoefler Text Ornaments.ttf
-
-Hoefler Text.ttc
-
-Hubballi.otf
-
-ITFDevanagari.ttc
-
-Impact.ttf
-
-InaiMathi-MN.ttc
-
-JainiDevanagari-Regular.ttf
-
-JainiPurvaDevanagari-Regular.ttf
-
-K2D.ttc
-
-Kai.ttf
-
-Kailasa.ttc
-
-Kaiti.ttc
-
-Kannada MN.ttc
-
-Kannada Sangam MN.ttc
-
-Katari.ttc
-
-Kavivanar.ttf
-
-Kefa.ttc
-
-Keyboard.ttf
-
-Khmer MN.ttc
-
-Khmer Sangam MN.ttf
-
-Klee.ttc
-
-KoHo.ttc
-
-Kodchasan.ttc
-
-Kohinoor.ttc
-
-KohinoorBangla.ttc
-
-KohinoorGujarati.ttc
-
-KohinoorTelugu.ttc
-
-Kokonor.ttf
-
-Krub.ttc
-
-Krungthep.ttf
-
-KufiStandardGK.ttc
-
-Kyokasho.ttc
-
-LahoreGurmukhi.ttc
-
-Lantinghei.ttc
-
-Lao MN.ttc
-
-Lao Sangam MN.ttf
-
-LastResort.otf
-
-Lato-Black.ttf
-
-Lato-BlackItalic.ttf
-
-Lato-Bold.ttf
-
-Lato-BoldItalic.ttf
-
-Lato-Italic.ttf
-
-Lato-Light.ttf
-
-Lato-LightItalic.ttf
-
-Lato-Regular.ttf
-
-Lato-Thin.ttf
-
-Lato-ThinItalic.ttf
-
-LavaDevanagari.ttc
-
-LavaKannada.ttc
-
-LavaTelugu.ttc
-
-LiberationSans-Bold.ttf
-
-LiberationSans-BoldItalic.ttf
-
-LiberationSans-Italic.ttf
-
-LiberationSans-Regular.ttf
-
-LiberationSerif-Bold.ttf
-
-LiberationSerif-BoldItalic.ttf
-
-LiberationSerif-Italic.ttf
-
-LiberationSerif-Regular.ttf
-
-Libian.ttc
-
-LingWaiSC-Medium.otf
-
-LingWaiTC-Medium.otf
-
-LucidaGrande.ttc
-
-Luminari.ttf
-
-Maku-Devanagari.ttc
-
-Malayalam MN.ttc
-
-Malayalam Sangam MN.ttc
-
-Mali.ttc
-
-MarkerFelt.ttc
-
-Menlo.ttc
-
-Microsoft Sans Serif.ttf
-
-Mishafi Gold.ttf
-
-Mishafi.ttf
-
-Modak-Devanagari.ttf
-
-Monaco.ttf
-
-Mshtakan.ttc
-
-Mukta-Devanagari.ttc
-
-MuktaMahee.ttc
-
-MuktaMalar-Tamil.ttc
-
-MuktaVaani-Gujarati.ttc
-
-Muna.ttc
-
-Myanmar MN.ttc
-
-Myanmar Sangam MN.ttc
-
-MyriadArabic.ttc
-
-NISC18030.ttf
-
-Nadeem.ttc
-
-NanumGothic.ttc
-
-NanumMyeongjo.ttc
-
-NanumScript.ttc
-
-NewPeninimMT.ttc
-
-NewYork.ttf
-
-NewYorkExtraLarge-Black.otf
-
-NewYorkExtraLarge-BlackItalic.otf
-
-NewYorkExtraLarge-Bold.otf
-
-NewYorkExtraLarge-BoldItalic.otf
-
-NewYorkExtraLarge-Heavy.otf
-
-NewYorkExtraLarge-HeavyItalic.otf
-
-NewYorkExtraLarge-Medium.otf
-
-NewYorkExtraLarge-MediumItalic.otf
-
-NewYorkExtraLarge-Regular.otf
-
-NewYorkExtraLarge-RegularItalic.otf
-
-NewYorkExtraLarge-Semibold.otf
-
-NewYorkExtraLarge-SemiboldItalic.otf
-
-NewYorkItalic.ttf
-
-NewYorkLarge-Black.otf
-
-NewYorkLarge-BlackItalic.otf
-
-NewYorkLarge-Bold.otf
-
-NewYorkLarge-BoldItalic.otf
-
-NewYorkLarge-Heavy.otf
-
-NewYorkLarge-HeavyItalic.otf
-
-NewYorkLarge-Medium.otf
-
-NewYorkLarge-MediumItalic.otf
-
-NewYorkLarge-Regular.otf
-
-NewYorkLarge-RegularItalic.otf
-
-NewYorkLarge-Semibold.otf
-
-NewYorkLarge-SemiboldItalic.otf
-
-NewYorkMedium-Black.otf
-
-NewYorkMedium-BlackItalic.otf
-
-NewYorkMedium-Bold.otf
-
-NewYorkMedium-BoldItalic.otf
-
-NewYorkMedium-Heavy.otf
-
-NewYorkMedium-HeavyItalic.otf
-
-NewYorkMedium-Medium.otf
-
-NewYorkMedium-MediumItalic.otf
-
-NewYorkMedium-Regular.otf
-
-NewYorkMedium-RegularItalic.otf
-
-NewYorkMedium-Semibold.otf
-
-NewYorkMedium-SemiboldItalic.otf
-
-NewYorkSmall-Black.otf
-
-NewYorkSmall-BlackItalic.otf
-
-NewYorkSmall-Bold.otf
-
-NewYorkSmall-BoldItalic.otf
-
-NewYorkSmall-Heavy.otf
-
-NewYorkSmall-HeavyItalic.otf
-
-NewYorkSmall-Medium.otf
-
-NewYorkSmall-MediumItalic.otf
-
-NewYorkSmall-Regular.otf
-
-NewYorkSmall-RegularItalic.otf
-
-NewYorkSmall-Semibold.otf
-
-NewYorkSmall-SemiboldItalic.otf
-
-Niramit.ttc
-
-Noteworthy.ttc
-
-NotoNastaliq.ttc
-
-NotoSans-Black.ttf
-
-NotoSans-BlackItalic.ttf
-
-NotoSans-Bold.ttf
-
-NotoSans-BoldItalic.ttf
-
-NotoSans-ExtraBold.ttf
-
-NotoSans-ExtraBoldItalic.ttf
-
-NotoSans-ExtraLight.ttf
-
-NotoSans-ExtraLightItalic.ttf
-
-NotoSans-Italic.ttf
-
-NotoSans-Light.ttf
-
-NotoSans-LightItalic.ttf
-
-NotoSans-Medium.ttf
-
-NotoSans-MediumItalic.ttf
-
-NotoSans-Regular.ttf
-
-NotoSans-SemiBold.ttf
-
-NotoSans-SemiBoldItalic.ttf
-
-NotoSans-Thin.ttf
-
-NotoSans-ThinItalic.ttf
-
-NotoSansArmenian.ttc
-
-NotoSansKannada.ttc
-
-NotoSansMyanmar.ttc
-
-NotoSansOriya.ttc
-
-NotoSerif-Bold.ttf
-
-NotoSerif-BoldItalic.ttf
-
-NotoSerif-Italic.ttf
-
-NotoSerif-Regular.ttf
-
-NotoSerifKannada.ttc
-
-NotoSerifMyanmar.ttc
-
-OctoberCompressedDevanagari.ttc
-
-OctoberCompressedTamil.ttc
-
-OctoberCondensedDevanagari.ttc
-
-OctoberCondensedTamil.ttc
-
-OctoberDevanagari.ttc
-
-OctoberTamil.ttc
-
-OpenSans-Bold.ttf
-
-OpenSans-BoldItalic.ttf
-
-OpenSans-ExtraBold.ttf
-
-OpenSans-ExtraBoldItalic.ttf
-
-OpenSans-Italic.ttf
-
-OpenSans-Light.ttf
-
-OpenSans-LightItalic.ttf
-
-OpenSans-Medium.ttf
-
-OpenSans-MediumItalic.ttf
-
-OpenSans-Regular.ttf
-
-OpenSans-SemiBold.ttf
-
-OpenSans-SemiBoldItalic.ttf
-
-OpenSans_Condensed-Bold.ttf
-
-OpenSans_Condensed-BoldItalic.ttf
-
-OpenSans_Condensed-ExtraBold.ttf
-
-OpenSans_Condensed-ExtraBoldItalic.ttf
-
-OpenSans_Condensed-Italic.ttf
-
-OpenSans_Condensed-Light.ttf
-
-OpenSans_Condensed-LightItalic.ttf
-
-OpenSans_Condensed-Medium.ttf
-
-OpenSans_Condensed-MediumItalic.ttf
-
-OpenSans_Condensed-Regular.ttf
-
-OpenSans_Condensed-SemiBold.ttf
-
-OpenSans_Condensed-SemiBoldItalic.ttf
-
-Optima.ttc
-
-Oriya MN.ttc
-
-Oriya Sangam MN.ttc
-
-Ornanong.ttc
-
-Osaka.ttf
-
-OsakaMono.ttf
-
-PCmyoungjo.ttf
-
-PTMono.ttc
-
-PTSans.ttc
-
-PTSerif.ttc
-
-PTSerifCaption.ttc
-
-PadyakkeExpandedOne.otf
-
-Palatino.ttc
-
-Papyrus.ttc
-
-PartyLET-plain.ttf
-
-Phosphate.ttc
-
-Pilgiche.ttf
-
-PingFang.ttc
-
-PlantagenetCherokee.ttf
-
-Produkt.ttc
-
-ProximaNova.ttc
-
-PublicoHeadline.ttc
-
-PublicoText.ttc
-
-QuotesCaps-Regular.otf
-
-QuotesScript-Regular.otf
-
-Raanana.ttc
-
-Roboto-Black.ttf
-
-Roboto-BlackItalic.ttf
-
-Roboto-Bold.ttf
-
-Roboto-BoldItalic.ttf
-
-Roboto-Italic.ttf
-
-Roboto-Light.ttf
-
-Roboto-LightItalic.ttf
-
-Roboto-Medium.ttf
-
-Roboto-MediumItalic.ttf
-
-Roboto-Regular.ttf
-
-Roboto-Thin.ttf
-
-Roboto-ThinItalic.ttf
-
-Rockwell.ttc
-
-SF-Pro-Display-Black.otf
-
-SF-Pro-Display-BlackItalic.otf
-
-SF-Pro-Display-Bold.otf
-
-SF-Pro-Display-BoldItalic.otf
-
-SF-Pro-Display-Heavy.otf
-
-SF-Pro-Display-HeavyItalic.otf
-
-SF-Pro-Display-Light.otf
-
-SF-Pro-Display-LightItalic.otf
-
-SF-Pro-Display-Medium.otf
-
-SF-Pro-Display-MediumItalic.otf
-
-SF-Pro-Display-Regular.otf
-
-SF-Pro-Display-RegularItalic.otf
-
-SF-Pro-Display-Semibold.otf
-
-SF-Pro-Display-SemiboldItalic.otf
-
-SF-Pro-Display-Thin.otf
-
-SF-Pro-Display-ThinItalic.otf
-
-SF-Pro-Display-Ultralight.otf
-
-SF-Pro-Display-UltralightItalic.otf
-
-SF-Pro-Italic.ttf
-
-SF-Pro-Rounded-Black.otf
-
-SF-Pro-Rounded-Bold.otf
-
-SF-Pro-Rounded-Heavy.otf
-
-SF-Pro-Rounded-Light.otf
-
-SF-Pro-Rounded-Medium.otf
-
-SF-Pro-Rounded-Regular.otf
-
-SF-Pro-Rounded-Semibold.otf
-
-SF-Pro-Rounded-Thin.otf
-
-SF-Pro-Rounded-Ultralight.otf
-
-SF-Pro-Text-Black.otf
-
-SF-Pro-Text-BlackItalic.otf
-
-SF-Pro-Text-Bold.otf
-
-SF-Pro-Text-BoldItalic.otf
-
-SF-Pro-Text-Heavy.otf
-
-SF-Pro-Text-HeavyItalic.otf
-
-SF-Pro-Text-Light.otf
-
-SF-Pro-Text-LightItalic.otf
-
-SF-Pro-Text-Medium.otf
-
-SF-Pro-Text-MediumItalic.otf
-
-SF-Pro-Text-Regular.otf
-
-SF-Pro-Text-RegularItalic.otf
-
-SF-Pro-Text-Semibold.otf
-
-SF-Pro-Text-SemiboldItalic.otf
-
-SF-Pro-Text-Thin.otf
-
-SF-Pro-Text-ThinItalic.otf
-
-SF-Pro-Text-Ultralight.otf
-
-SF-Pro-Text-UltralightItalic.otf
-
-SF-Pro.ttf
-
-SFArabic.ttf
-
-SFArabicRounded.ttf
-
-SFCompact.ttf
-
-SFCompactItalic.ttf
-
-SFCompactRounded.ttf
-
-SFNS.ttf
-
-SFNSItalic.ttf
-
-SFNSMono.ttf
-
-SFNSMonoItalic.ttf
-
-SFNSRounded.ttf
-
-STHeiti Light.ttc
-
-STHeiti Medium.ttc
-
-STIXTwoMath.otf
-
-STIXTwoText-Italic.ttf
-
-STIXTwoText.ttf
-
-SamaDevanagari.ttc
-
-SamaGujarati.ttc
-
-SamaGurmukhi.ttc
-
-SamaKannada.ttc
-
-SamaMalayalam.ttc
-
-SamaTamil.ttc
-
-Sana.ttc
-
-Sarabun.ttc
-
-Sathu.ttf
-
-SauberScript.ttc
-
-Savoye LET.ttc
-
-Shobhika-Devanagari.ttc
-
-Shree714.ttc
-
-SignPainter.ttc
-
-Silom.ttf
-
-SimSong.ttc
-
-Sinhala MN.ttc
-
-Sinhala Sangam MN.ttc
-
-Skia.ttf
-
-SnellRoundhand.ttc
-
-Songti.ttc
-
-SpotMono.ttc
-
-Srisakdi.ttc
-
-SukhumvitSet.ttc
-
-Supplemental
-
-Symbol.ttf
-
-Tahoma Bold.ttf
-
-Tahoma.ttf
-
-Tamil MN.ttc
-
-Tamil Sangam MN.ttc
-
-TamilSangam-MN.ttc
-
-Telugu MN.ttc
-
-Telugu Sangam MN.ttc
-
-Thonburi.ttc
-
-ThonburiUI.ttc
-
-Times New Roman Bold Italic.ttf
-
-Times New Roman Bold.ttf
-
-Times New Roman Italic.ttf
-
-Times New Roman.ttf
-
-Times.ttc
-
-TimesLTMM
-
-TiroBangla.ttc
-
-TiroGurmukhi.ttc
-
-TiroHindi.ttc
-
-TiroKannada.ttc
-
-TiroMarathi.ttc
-
-TiroSanskrit.ttc
-
-TiroTamil.ttc
-
-TiroTelugu.ttc
-
-ToppanBunkyuGothicPr6N.ttc
-
-ToppanBunkyuMidashiGothicStdN-ExtraBold.otf
-
-ToppanBunkyuMidashiMinchoStdN-ExtraBold.otf
-
-ToppanBunkyuMinchoPr6N-Regular.otf
-
-Trattatello.ttf
-
-Trebuchet MS Bold Italic.ttf
-
-Trebuchet MS Bold.ttf
-
-Trebuchet MS Italic.ttf
-
-Trebuchet MS.ttf
-
-TsukushiAMaruGothic.ttc
-
-TsukushiBMaruGothic.ttc
-
-Verdana Bold Italic.ttf
-
-Verdana Bold.ttf
-
-Verdana Italic.ttf
-
-Verdana.ttf
-
-Waseem.ttc
-
-WawaSC-Regular.otf
-
-WawaTC-Regular.otf
-
-Webdings.ttf
-
-WeibeiSC-Bold.otf
-
-WeibeiTC-Bold.otf
-
-Wingdings 2.ttf
-
-Wingdings 3.ttf
-
-Wingdings.ttf
-
-Xingkai.ttc
-
-Yu Gothic Bold.otf
-
-Yu Gothic Medium.otf
-
-YuMincho.ttc
-
-Yuanti.ttc
-
-YuppySC-Regular.otf
-
-YuppyTC-Regular.otf
-
-ZapfDingbats.ttf
-
-Zapfino.ttf
-
-儷宋 Pro.ttf
-
-儷黑 Pro.ttf
-
-华文仿宋.ttf
-
-华文细黑.ttf
-
-华文黑体.ttf
-
-ヒラギノ明朝 ProN.ttc
-
-ヒラギノ丸ゴ ProN W4.ttc
-
-ヒラギノ角ゴシック W0.ttc
-
-ヒラギノ角ゴシック W1.ttc
-
-ヒラギノ角ゴシック W2.ttc
-
-ヒラギノ角ゴシック W3.ttc
-
-ヒラギノ角ゴシック W4.ttc
-
-ヒラギノ角ゴシック W5.ttc
-
-ヒラギノ角ゴシック W6.ttc
-
-ヒラギノ角ゴシック W7.ttc
-
-ヒラギノ角ゴシック W8.ttc
-
-ヒラギノ角ゴシック W9.ttc
+# All Fonts
+
+Here is a list of all the fonts included in this repository. They are not under their name (e.g., "Robot"), but rather the font file names (e.g., "Roboto-Regular.ttf"). But it is still reasonable easy to navigate and search for fonts, since searching "Roboto" would still show _Roboto-Regular.ttf_.
+
+## List
+
+- Academy Engraved LET Fonts.ttf
+- AdelleSans.ttc
+- AkayaKannada.ttf
+- AkayaTelivigala.ttf
+- Al Nile.ttc
+- Al Tarikh.ttc
+- AlBayan.ttc
+- Alegreya-Black.ttf
+- Alegreya-BlackItalic.ttf
+- Alegreya-Bold.ttf
+- Alegreya-BoldItalic.ttf
+- Alegreya-ExtraBold.ttf
+- Alegreya-ExtraBoldItalic.ttf
+- Alegreya-Italic.ttf
+- Alegreya-Medium.ttf
+- Alegreya-MediumItalic.ttf
+- Alegreya-Regular.ttf
+- Alegreya-SemiBold.ttf
+- Alegreya-SemiBoldItalic.ttf
+- AlegreyaSans-Black.ttf
+- AlegreyaSans-BlackItalic.ttf
+- AlegreyaSans-Bold.ttf
+- AlegreyaSans-BoldItalic.ttf
+- AlegreyaSans-ExtraBold.ttf
+- AlegreyaSans-ExtraBoldItalic.ttf
+- AlegreyaSans-Italic.ttf
+- AlegreyaSans-Light.ttf
+- AlegreyaSans-LightItalic.ttf
+- AlegreyaSans-Medium.ttf
+- AlegreyaSans-MediumItalic.ttf
+- AlegreyaSans-Regular.ttf
+- AlegreyaSans-Thin.ttf
+- AlegreyaSans-ThinItalic.ttf
+- AmericanTypewriter.ttc
+- Andale Mono.ttf
+- AnnaiMN.ttf
+- Apple Braille Outline 6 Dot.ttf
+- Apple Braille Outline 8 Dot.ttf
+- Apple Braille Pinpoint 6 Dot.ttf
+- Apple Braille Pinpoint 8 Dot.ttf
+- Apple Braille.ttf
+- Apple Chancery.ttf
+- Apple LiGothic Medium.ttf
+- Apple LiSung Light.ttf
+- Apple Symbols.ttf
+- AppleGothic.ttf
+- AppleMyungjo.ttf
+- AppleSDGothicNeo.ttc
+- AquaKana.ttc
+- Arial Black.ttf
+- Arial Bold Italic.ttf
+- Arial Bold.ttf
+- Arial Italic.ttf
+- Arial Narrow Bold Italic.ttf
+- Arial Narrow Bold.ttf
+- Arial Narrow Italic.ttf
+- Arial Narrow.ttf
+- Arial Rounded Bold.ttf
+- Arial Unicode.ttf
+- Arial.ttf
+- ArialHB.ttc
+- ArimaKoshi.ttc
+- ArimaMadurai.ttc
+- Avenir Next Condensed.ttc
+- Avenir Next.ttc
+- Avenir.ttc
+- Ayuthaya.ttf
+- BMDoHyeon-Regular.otf
+- BMHanna11yrs-Regular.otf
+- BMHannaAir-Regular.otf
+- BMHannaPro-Regular.otf
+- BMJua-Regular.otf
+- BMKirangHaerang-Regular.otf
+- BMYeongSung-Regular.otf
+- Baghdad.ttc
+- Baijam.ttc
+- Baloo-Devanagari.ttc
+- BalooBhai-Gujarati.ttc
+- BalooBhaijaanUrdu-Regular.ttf
+- BalooBhainaOdia.ttc
+- BalooChettanMalayalam.ttc
+- BalooDaBanga.ttc
+- BalooPaajiGurmukhi.ttc
+- BalooTammaKannada.ttc
+- BalooTammuduTelugu.ttc
+- BalooThambiTamil.ttc
+- Bangla MN.ttc
+- Bangla Sangam MN.ttc
+- Baoli.ttc
+- Baskerville.ttc
+- Beirut.ttc
+- BiauKai.ttf
+- BigCaslon.ttf
+- Bodoni 72 OS.ttc
+- Bodoni 72 Smallcaps Book.ttf
+- Bodoni 72.ttc
+- Bodoni Ornaments.ttf
+- Bradley Hand Bold.ttf
+- Brush Script.ttf
+- CambayDevanagari.ttc
+- Canela.ttc
+- CanelaDeck.ttc
+- CanelaText.ttc
+- ChakraPetch.ttc
+- Chalkboard.ttc
+- ChalkboardSE.ttc
+- Chalkduster.ttf
+- Charm.ttc
+- Charmonman.ttc
+- Charter.ttc
+- Cochin.ttc
+- Comic Sans MS Bold.ttf
+- Comic Sans MS.ttf
+- Copperplate.ttc
+- Corsiva.ttc
+- Courier New Bold Italic.ttf
+- Courier New Bold.ttf
+- Courier New Italic.ttf
+- Courier New.ttf
+- Courier.ttc
+- DIN Alternate Bold.ttf
+- DIN Condensed Bold.ttf
+- Damascus.ttc
+- DecoTypeNaskh.ttc
+- Devanagari Sangam MN.ttc
+- DevanagariMT.ttc
+- Didot.ttc
+- Diwan Kufi.ttc
+- Diwan Thuluth.ttf
+- DomaineDisplay.ttc
+- EuphemiaCAS.ttc
+- FahKwang.ttc
+- Farah.ttc
+- Farisi.ttf
+- FoundersGrotesk.ttc
+- FoundersGroteskCondensed.ttc
+- FoundersGroteskText.ttc
+- Futura.ttc
+- Galvji.ttc
+- GeezaPro.ttc
+- Geneva.ttf
+- Georgia Bold Italic.ttf
+- Georgia Bold.ttf
+- Georgia Italic.ttf
+- Georgia.ttf
+- GillSans.ttc
+- GotuDevanagari-Regular.ttf
+- Graphik.ttc
+- GraphikCompact.ttc
+- Gujarati Sangam MN.ttc
+- GujaratiMT.ttc
+- Gungseouche.ttf
+- Gurmukhi MN.ttc
+- Gurmukhi Sangam MN.ttc
+- Gurmukhi.ttf
+- Hannotate.ttc
+- Hanzipen.ttc
+- HeadlineA.ttf
+- Hei.ttf
+- HelveLTMM
+- Helvetica.ttc
+- HelveticaNeue.ttc
+- Herculanum.ttf
+- Hiragino Sans CNS.ttc
+- Hiragino Sans GB.ttc
+- Hoefler Text Ornaments.ttf
+- Hoefler Text.ttc
+- Hubballi.otf
+- IBMPlexMono-Bold.ttf
+- IBMPlexMono-BoldItalic.ttf
+- IBMPlexMono-ExtraLight.ttf
+- IBMPlexMono-ExtraLightItalic.ttf
+- IBMPlexMono-Italic.ttf
+- IBMPlexMono-Light.ttf
+- IBMPlexMono-LightItalic.ttf
+- IBMPlexMono-Medium.ttf
+- IBMPlexMono-MediumItalic.ttf
+- IBMPlexMono-Regular.ttf
+- IBMPlexMono-SemiBold.ttf
+- IBMPlexMono-SemiBoldItalic.ttf
+- IBMPlexMono-Thin.ttf
+- IBMPlexMono-ThinItalic.ttf
+- IBMPlexSans-Bold.ttf
+- IBMPlexSans-BoldItalic.ttf
+- IBMPlexSans-ExtraLight.ttf
+- IBMPlexSans-ExtraLightItalic.ttf
+- IBMPlexSans-Italic.ttf
+- IBMPlexSans-Light.ttf
+- IBMPlexSans-LightItalic.ttf
+- IBMPlexSans-Medium.ttf
+- IBMPlexSans-MediumItalic.ttf
+- IBMPlexSans-Regular.ttf
+- IBMPlexSans-SemiBold.ttf
+- IBMPlexSans-SemiBoldItalic.ttf
+- IBMPlexSans-Thin.ttf
+- IBMPlexSans-ThinItalic.ttf
+- IBMPlexSansCondensed-Bold.ttf
+- IBMPlexSansCondensed-BoldItalic.ttf
+- IBMPlexSansCondensed-ExtraLight.ttf
+- IBMPlexSansCondensed-ExtraLightItalic.ttf
+- IBMPlexSansCondensed-Italic.ttf
+- IBMPlexSansCondensed-Light.ttf
+- IBMPlexSansCondensed-LightItalic.ttf
+- IBMPlexSansCondensed-Medium.ttf
+- IBMPlexSansCondensed-MediumItalic.ttf
+- IBMPlexSansCondensed-Regular.ttf
+- IBMPlexSansCondensed-SemiBold.ttf
+- IBMPlexSansCondensed-SemiBoldItalic.ttf
+- IBMPlexSansCondensed-Thin.ttf
+- IBMPlexSansCondensed-ThinItalic.ttf
+- IBMPlexSerif-Bold.ttf
+- IBMPlexSerif-BoldItalic.ttf
+- IBMPlexSerif-ExtraLight.ttf
+- IBMPlexSerif-ExtraLightItalic.ttf
+- IBMPlexSerif-Italic.ttf
+- IBMPlexSerif-Light.ttf
+- IBMPlexSerif-LightItalic.ttf
+- IBMPlexSerif-Medium.ttf
+- IBMPlexSerif-MediumItalic.ttf
+- IBMPlexSerif-Regular.ttf
+- IBMPlexSerif-SemiBold.ttf
+- IBMPlexSerif-SemiBoldItalic.ttf
+- IBMPlexSerif-Thin.ttf
+- IBMPlexSerif-ThinItalic.ttf
+- ITFDevanagari.ttc
+- Impact.ttf
+- InaiMathi-MN.ttc
+- JainiDevanagari-Regular.ttf
+- JainiPurvaDevanagari-Regular.ttf
+- K2D.ttc
+- Kai.ttf
+- Kailasa.ttc
+- Kaiti.ttc
+- Kannada MN.ttc
+- Kannada Sangam MN.ttc
+- Katari.ttc
+- Kavivanar.ttf
+- Kefa.ttc
+- Keyboard.ttf
+- Khmer MN.ttc
+- Khmer Sangam MN.ttf
+- Klee.ttc
+- KoHo.ttc
+- Kodchasan.ttc
+- Kohinoor.ttc
+- KohinoorBangla.ttc
+- KohinoorGujarati.ttc
+- KohinoorTelugu.ttc
+- Kokonor.ttf
+- Krub.ttc
+- Krungthep.ttf
+- KufiStandardGK.ttc
+- Kyokasho.ttc
+- LahoreGurmukhi.ttc
+- Lantinghei.ttc
+- Lao MN.ttc
+- Lao Sangam MN.ttf
+- LastResort.otf
+- Lato-Black.ttf
+- Lato-BlackItalic.ttf
+- Lato-Bold.ttf
+- Lato-BoldItalic.ttf
+- Lato-Italic.ttf
+- Lato-Light.ttf
+- Lato-LightItalic.ttf
+- Lato-Regular.ttf
+- Lato-Thin.ttf
+- Lato-ThinItalic.ttf
+- LavaDevanagari.ttc
+- LavaKannada.ttc
+- LavaTelugu.ttc
+- LiberationSans-Bold.ttf
+- LiberationSans-BoldItalic.ttf
+- LiberationSans-Italic.ttf
+- LiberationSans-Regular.ttf
+- LiberationSerif-Bold.ttf
+- LiberationSerif-BoldItalic.ttf
+- LiberationSerif-Italic.ttf
+- LiberationSerif-Regular.ttf
+- Libian.ttc
+- LibreBaskerville-Bold.ttf
+- LibreBaskerville-Italic.ttf
+- LibreBaskerville-Regular.ttf
+- LibreCaslonDisplay-Regular.ttf
+- LibreCaslonText-Bold.ttf
+- LibreCaslonText-Italic.ttf
+- LibreCaslonText-Regular.ttf
+- LingWaiSC-Medium.otf
+- LingWaiTC-Medium.otf
+- LucidaGrande.ttc
+- Luminari.ttf
+- Maku-Devanagari.ttc
+- Malayalam MN.ttc
+- Malayalam Sangam MN.ttc
+- Mali.ttc
+- MarkerFelt.ttc
+- Menlo.ttc
+- Merriweather-Black.ttf
+- Merriweather-BlackItalic.ttf
+- Merriweather-Bold.ttf
+- Merriweather-BoldItalic.ttf
+- Merriweather-Italic.ttf
+- Merriweather-Light.ttf
+- Merriweather-LightItalic.ttf
+- Merriweather-Regular.ttf
+- MerriweatherSans-Bold.ttf
+- MerriweatherSans-BoldItalic.ttf
+- MerriweatherSans-ExtraBold.ttf
+- MerriweatherSans-ExtraBoldItalic.ttf
+- MerriweatherSans-Italic.ttf
+- MerriweatherSans-Light.ttf
+- MerriweatherSans-LightItalic.ttf
+- MerriweatherSans-Medium.ttf
+- MerriweatherSans-MediumItalic.ttf
+- MerriweatherSans-Regular.ttf
+- MerriweatherSans-SemiBold.ttf
+- MerriweatherSans-SemiBoldItalic.ttf
+- Microsoft Sans Serif.ttf
+- Mishafi Gold.ttf
+- Mishafi.ttf
+- Modak-Devanagari.ttf
+- Monaco.ttf
+- Mshtakan.ttc
+- Mukta-Devanagari.ttc
+- MuktaMahee.ttc
+- MuktaMalar-Tamil.ttc
+- MuktaVaani-Gujarati.ttc
+- Muna.ttc
+- Myanmar MN.ttc
+- Myanmar Sangam MN.ttc
+- MyriadArabic.ttc
+- NISC18030.ttf
+- Nadeem.ttc
+- NanumGothic.ttc
+- NanumMyeongjo.ttc
+- NanumScript.ttc
+- NewPeninimMT.ttc
+- NewYork.ttf
+- NewYorkExtraLarge-Black.otf
+- NewYorkExtraLarge-BlackItalic.otf
+- NewYorkExtraLarge-Bold.otf
+- NewYorkExtraLarge-BoldItalic.otf
+- NewYorkExtraLarge-Heavy.otf
+- NewYorkExtraLarge-HeavyItalic.otf
+- NewYorkExtraLarge-Medium.otf
+- NewYorkExtraLarge-MediumItalic.otf
+- NewYorkExtraLarge-Regular.otf
+- NewYorkExtraLarge-RegularItalic.otf
+- NewYorkExtraLarge-Semibold.otf
+- NewYorkExtraLarge-SemiboldItalic.otf
+- NewYorkItalic.ttf
+- NewYorkLarge-Black.otf
+- NewYorkLarge-BlackItalic.otf
+- NewYorkLarge-Bold.otf
+- NewYorkLarge-BoldItalic.otf
+- NewYorkLarge-Heavy.otf
+- NewYorkLarge-HeavyItalic.otf
+- NewYorkLarge-Medium.otf
+- NewYorkLarge-MediumItalic.otf
+- NewYorkLarge-Regular.otf
+- NewYorkLarge-RegularItalic.otf
+- NewYorkLarge-Semibold.otf
+- NewYorkLarge-SemiboldItalic.otf
+- NewYorkMedium-Black.otf
+- NewYorkMedium-BlackItalic.otf
+- NewYorkMedium-Bold.otf
+- NewYorkMedium-BoldItalic.otf
+- NewYorkMedium-Heavy.otf
+- NewYorkMedium-HeavyItalic.otf
+- NewYorkMedium-Medium.otf
+- NewYorkMedium-MediumItalic.otf
+- NewYorkMedium-Regular.otf
+- NewYorkMedium-RegularItalic.otf
+- NewYorkMedium-Semibold.otf
+- NewYorkMedium-SemiboldItalic.otf
+- NewYorkSmall-Black.otf
+- NewYorkSmall-BlackItalic.otf
+- NewYorkSmall-Bold.otf
+- NewYorkSmall-BoldItalic.otf
+- NewYorkSmall-Heavy.otf
+- NewYorkSmall-HeavyItalic.otf
+- NewYorkSmall-Medium.otf
+- NewYorkSmall-MediumItalic.otf
+- NewYorkSmall-Regular.otf
+- NewYorkSmall-RegularItalic.otf
+- NewYorkSmall-Semibold.otf
+- NewYorkSmall-SemiboldItalic.otf
+- NimbusRomNo9L-Med.otf
+- NimbusRomNo9L-MedIta.otf
+- NimbusRomNo9L-Reg.otf
+- NimbusRomNo9L-RegIta.otf
+- NimbusSanL-Bol.otf
+- NimbusSanL-BolIta.otf
+- NimbusSanL-Reg.otf
+- NimbusSanL-RegIta.otf
+- Niramit.ttc
+- Noteworthy.ttc
+- NotoNastaliq.ttc
+- NotoSans-Black.ttf
+- NotoSans-BlackItalic.ttf
+- NotoSans-Bold.ttf
+- NotoSans-BoldItalic.ttf
+- NotoSans-ExtraBold.ttf
+- NotoSans-ExtraBoldItalic.ttf
+- NotoSans-ExtraLight.ttf
+- NotoSans-ExtraLightItalic.ttf
+- NotoSans-Italic.ttf
+- NotoSans-Light.ttf
+- NotoSans-LightItalic.ttf
+- NotoSans-Medium.ttf
+- NotoSans-MediumItalic.ttf
+- NotoSans-Regular.ttf
+- NotoSans-SemiBold.ttf
+- NotoSans-SemiBoldItalic.ttf
+- NotoSans-Thin.ttf
+- NotoSans-ThinItalic.ttf
+- NotoSansArmenian.ttc
+- NotoSansKannada.ttc
+- NotoSansMyanmar.ttc
+- NotoSansOriya.ttc
+- NotoSerif-Bold.ttf
+- NotoSerif-BoldItalic.ttf
+- NotoSerif-Italic.ttf
+- NotoSerif-Regular.ttf
+- NotoSerifKannada.ttc
+- NotoSerifMyanmar.ttc
+- Nunito-Black.ttf
+- Nunito-BlackItalic.ttf
+- Nunito-Bold.ttf
+- Nunito-BoldItalic.ttf
+- Nunito-ExtraBold.ttf
+- Nunito-ExtraBoldItalic.ttf
+- Nunito-ExtraLight.ttf
+- Nunito-ExtraLightItalic.ttf
+- Nunito-Italic.ttf
+- Nunito-Light.ttf
+- Nunito-LightItalic.ttf
+- Nunito-Medium.ttf
+- Nunito-MediumItalic.ttf
+- Nunito-Regular.ttf
+- Nunito-SemiBold.ttf
+- Nunito-SemiBoldItalic.ttf
+- NunitoSans-Black.ttf
+- NunitoSans-BlackItalic.ttf
+- NunitoSans-Bold.ttf
+- NunitoSans-BoldItalic.ttf
+- NunitoSans-ExtraBold.ttf
+- NunitoSans-ExtraBoldItalic.ttf
+- NunitoSans-ExtraLight.ttf
+- NunitoSans-ExtraLightItalic.ttf
+- NunitoSans-Italic.ttf
+- NunitoSans-Light.ttf
+- NunitoSans-LightItalic.ttf
+- NunitoSans-Regular.ttf
+- NunitoSans-SemiBold.ttf
+- NunitoSans-SemiBoldItalic.ttf
+- OctoberCompressedDevanagari.ttc
+- OctoberCompressedTamil.ttc
+- OctoberCondensedDevanagari.ttc
+- OctoberCondensedTamil.ttc
+- OctoberDevanagari.ttc
+- OctoberTamil.ttc
+- OpenSans-Bold.ttf
+- OpenSans-BoldItalic.ttf
+- OpenSans-ExtraBold.ttf
+- OpenSans-ExtraBoldItalic.ttf
+- OpenSans-Italic.ttf
+- OpenSans-Light.ttf
+- OpenSans-LightItalic.ttf
+- OpenSans-Medium.ttf
+- OpenSans-MediumItalic.ttf
+- OpenSans-Regular.ttf
+- OpenSans-SemiBold.ttf
+- OpenSans-SemiBoldItalic.ttf
+- OpenSans_Condensed-Bold.ttf
+- OpenSans_Condensed-BoldItalic.ttf
+- OpenSans_Condensed-ExtraBold.ttf
+- OpenSans_Condensed-ExtraBoldItalic.ttf
+- OpenSans_Condensed-Italic.ttf
+- OpenSans_Condensed-Light.ttf
+- OpenSans_Condensed-LightItalic.ttf
+- OpenSans_Condensed-Medium.ttf
+- OpenSans_Condensed-MediumItalic.ttf
+- OpenSans_Condensed-Regular.ttf
+- OpenSans_Condensed-SemiBold.ttf
+- OpenSans_Condensed-SemiBoldItalic.ttf
+- Optima.ttc
+- Oriya MN.ttc
+- Oriya Sangam MN.ttc
+- Ornanong.ttc
+- Osaka.ttf
+- OsakaMono.ttf
+- PCmyoungjo.ttf
+- PTMono.ttc
+- PTSans.ttc
+- PTSerif.ttc
+- PTSerifCaption.ttc
+- PadyakkeExpandedOne.otf
+- Palatino.ttc
+- Papyrus.ttc
+- PartyLET-plain.ttf
+- Phosphate.ttc
+- Pilgiche.ttf
+- PingFang.ttc
+- PlantagenetCherokee.ttf
+- Produkt.ttc
+- ProximaNova.ttc
+- PublicoHeadline.ttc
+- PublicoText.ttc
+- Quattrocento-Bold.ttf
+- Quattrocento-Regular.ttf
+- QuattrocentoSans-Bold.ttf
+- QuattrocentoSans-BoldItalic.ttf
+- QuattrocentoSans-Italic.ttf
+- QuattrocentoSans-Regular.ttf
+- QuotesCaps-Regular.otf
+- QuotesScript-Regular.otf
+- Raanana.ttc
+- Roboto-Black.ttf
+- Roboto-BlackItalic.ttf
+- Roboto-Bold.ttf
+- Roboto-BoldItalic.ttf
+- Roboto-Italic.ttf
+- Roboto-Light.ttf
+- Roboto-LightItalic.ttf
+- Roboto-Medium.ttf
+- Roboto-MediumItalic.ttf
+- Roboto-Regular.ttf
+- Roboto-Thin.ttf
+- Roboto-ThinItalic.ttf
+- RobotoMono-Bold.ttf
+- RobotoMono-BoldItalic.ttf
+- RobotoMono-ExtraLight.ttf
+- RobotoMono-ExtraLightItalic.ttf
+- RobotoMono-Italic.ttf
+- RobotoMono-Light.ttf
+- RobotoMono-LightItalic.ttf
+- RobotoMono-Medium.ttf
+- RobotoMono-MediumItalic.ttf
+- RobotoMono-Regular.ttf
+- RobotoMono-SemiBold.ttf
+- RobotoMono-SemiBoldItalic.ttf
+- RobotoMono-Thin.ttf
+- RobotoMono-ThinItalic.ttf
+- RobotoSlab-Black.ttf
+- RobotoSlab-Bold.ttf
+- RobotoSlab-ExtraBold.ttf
+- RobotoSlab-ExtraLight.ttf
+- RobotoSlab-Light.ttf
+- RobotoSlab-Medium.ttf
+- RobotoSlab-Regular.ttf
+- RobotoSlab-SemiBold.ttf
+- RobotoSlab-Thin.ttf
+- Rockwell.ttc
+- SF-Pro-Display-Black.otf
+- SF-Pro-Display-BlackItalic.otf
+- SF-Pro-Display-Bold.otf
+- SF-Pro-Display-BoldItalic.otf
+- SF-Pro-Display-Heavy.otf
+- SF-Pro-Display-HeavyItalic.otf
+- SF-Pro-Display-Light.otf
+- SF-Pro-Display-LightItalic.otf
+- SF-Pro-Display-Medium.otf
+- SF-Pro-Display-MediumItalic.otf
+- SF-Pro-Display-Regular.otf
+- SF-Pro-Display-RegularItalic.otf
+- SF-Pro-Display-Semibold.otf
+- SF-Pro-Display-SemiboldItalic.otf
+- SF-Pro-Display-Thin.otf
+- SF-Pro-Display-ThinItalic.otf
+- SF-Pro-Display-Ultralight.otf
+- SF-Pro-Display-UltralightItalic.otf
+- SF-Pro-Italic.ttf
+- SF-Pro-Rounded-Black.otf
+- SF-Pro-Rounded-Bold.otf
+- SF-Pro-Rounded-Heavy.otf
+- SF-Pro-Rounded-Light.otf
+- SF-Pro-Rounded-Medium.otf
+- SF-Pro-Rounded-Regular.otf
+- SF-Pro-Rounded-Semibold.otf
+- SF-Pro-Rounded-Thin.otf
+- SF-Pro-Rounded-Ultralight.otf
+- SF-Pro-Text-Black.otf
+- SF-Pro-Text-BlackItalic.otf
+- SF-Pro-Text-Bold.otf
+- SF-Pro-Text-BoldItalic.otf
+- SF-Pro-Text-Heavy.otf
+- SF-Pro-Text-HeavyItalic.otf
+- SF-Pro-Text-Light.otf
+- SF-Pro-Text-LightItalic.otf
+- SF-Pro-Text-Medium.otf
+- SF-Pro-Text-MediumItalic.otf
+- SF-Pro-Text-Regular.otf
+- SF-Pro-Text-RegularItalic.otf
+- SF-Pro-Text-Semibold.otf
+- SF-Pro-Text-SemiboldItalic.otf
+- SF-Pro-Text-Thin.otf
+- SF-Pro-Text-ThinItalic.otf
+- SF-Pro-Text-Ultralight.otf
+- SF-Pro-Text-UltralightItalic.otf
+- SF-Pro.ttf
+- SFArabic.ttf
+- SFArabicRounded.ttf
+- SFCompact.ttf
+- SFCompactItalic.ttf
+- SFCompactRounded.ttf
+- SFNS.ttf
+- SFNSItalic.ttf
+- SFNSMono.ttf
+- SFNSMonoItalic.ttf
+- SFNSRounded.ttf
+- STHeiti Light.ttc
+- STHeiti Medium.ttc
+- STIXTwoMath.otf
+- STIXTwoText-Italic.ttf
+- STIXTwoText.ttf
+- SamaDevanagari.ttc
+- SamaGujarati.ttc
+- SamaGurmukhi.ttc
+- SamaKannada.ttc
+- SamaMalayalam.ttc
+- SamaTamil.ttc
+- Sana.ttc
+- Sarabun.ttc
+- Sathu.ttf
+- SauberScript.ttc
+- Savoye LET.ttc
+- Shobhika-Devanagari.ttc
+- Shree714.ttc
+- SignPainter.ttc
+- Silom.ttf
+- SimSong.ttc
+- Sinhala MN.ttc
+- Sinhala Sangam MN.ttc
+- Skia.ttf
+- SnellRoundhand.ttc
+- Songti.ttc
+- SpotMono.ttc
+- Srisakdi.ttc
+- SukhumvitSet.ttc
+- Symbol.ttf
+- Tahoma Bold.ttf
+- Tahoma.ttf
+- Tamil MN.ttc
+- Tamil Sangam MN.ttc
+- TamilSangam-MN.ttc
+- Telugu MN.ttc
+- Telugu Sangam MN.ttc
+- Thonburi.ttc
+- ThonburiUI.ttc
+- Times New Roman Bold Italic.ttf
+- Times New Roman Bold.ttf
+- Times New Roman Italic.ttf
+- Times New Roman.ttf
+- Times.ttc
+- TimesLTMM
+- TiroBangla.ttc
+- TiroGurmukhi.ttc
+- TiroHindi.ttc
+- TiroKannada.ttc
+- TiroMarathi.ttc
+- TiroSanskrit.ttc
+- TiroTamil.ttc
+- TiroTelugu.ttc
+- ToppanBunkyuGothicPr6N.ttc
+- ToppanBunkyuMidashiGothicStdN-ExtraBold.otf
+- ToppanBunkyuMidashiMinchoStdN-ExtraBold.otf
+- ToppanBunkyuMinchoPr6N-Regular.otf
+- Trattatello.ttf
+- Trebuchet MS Bold Italic.ttf
+- Trebuchet MS Bold.ttf
+- Trebuchet MS Italic.ttf
+- Trebuchet MS.ttf
+- TsukushiAMaruGothic.ttc
+- TsukushiBMaruGothic.ttc
+- Verdana Bold Italic.ttf
+- Verdana Bold.ttf
+- Verdana Italic.ttf
+- Verdana.ttf
+- Waseem.ttc
+- WawaSC-Regular.otf
+- WawaTC-Regular.otf
+- Webdings.ttf
+- WeibeiSC-Bold.otf
+- WeibeiTC-Bold.otf
+- Wingdings 2.ttf
+- Wingdings 3.ttf
+- Wingdings.ttf
+- Xingkai.ttc
+- Yu Gothic Bold.otf
+- Yu Gothic Medium.otf
+- YuMincho.ttc
+- Yuanti.ttc
+- YuppySC-Regular.otf
+- YuppyTC-Regular.otf
+- ZapfDingbats.ttf
+- Zapfino.ttf
+- nimbusmono-bold.otf
+- nimbusmono-boldoblique.otf
+- nimbusmono-oblique.otf
+- nimbusmono-regular.otf
+- 儷宋 Pro.ttf
+- 儷黑 Pro.ttf
+- 华文仿宋.ttf
+- 华文细黑.ttf
+- 华文黑体.ttf
+- ヒラギノ丸ゴ ProN W4.ttc
+- ヒラギノ明朝 ProN.ttc
+- ヒラギノ角ゴシック W0.ttc
+- ヒラギノ角ゴシック W1.ttc
+- ヒラギノ角ゴシック W2.ttc
+- ヒラギノ角ゴシック W3.ttc
+- ヒラギノ角ゴシック W4.ttc
+- ヒラギノ角ゴシック W5.ttc
+- ヒラギノ角ゴシック W6.ttc
+- ヒラギノ角ゴシック W7.ttc
+- ヒラギノ角ゴシック W8.ttc
+- ヒラギノ角ゴシック W9.ttc
