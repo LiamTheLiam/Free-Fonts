@@ -16,11 +16,11 @@ The fonts were retrieved from my M1 Macbook Air. Every common and neccessary fon
 
 I thought it would be useful to be able for anyone to easily access fonts they need. For example, Windows does not come with Helvetica Nueue, but OS X does!
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Helvetica_Neue_typeface_weights.svg/1280px-Helvetica_Neue_typeface_weights.svg.png" alt="Helvetica Nueue font" style="zoom: 10%;" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Helvetica_Neue_typeface_weights.svg/1280px-Helvetica_Neue_typeface_weights.svg.png" alt="Helvetica Nueue font" width="200">
 
 Another OS X font that is made by Apple is San Francisco, which I like. You normally cannot get this font on Windows.
 
-<img src="https://typographica.org/wp-content/uploads/2016/02/SF_Typographica_01.png" alt="San Francisco font" style="zoom:10%;" />
+<img src="https://typographica.org/wp-content/uploads/2016/02/SF_Typographica_01.png" alt="San Francisco font" width="200">
 
 ### Other uses
 
