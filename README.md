@@ -1,5 +1,17 @@
 # Free Fonts
 
+Please read *Important for Windows users* below.
+
+## Core Fonts for the Web *(Get these!)*
+
+Included in this repository is the Microsoft package of Core Fonts for the Web. If you are using Linux and are trying to install some fonts, you *need* these. Most websites use them and they are installed on every Windows and Mac machine. You can also use them in web development.
+
+You can install them all from /Core Fonts for the Web/Font Files
+
+Included are fonts like Georgia, Arial, Times New Roman, etc.
+
+These fonts were originally in a .exe format that would install them, but I have extracted them for ease.
+
 ## Important for Windows users!
 
 Some of the included fonts cannot be installed in Windows since they are .ttc (TrueType Collection, which is a file that contains multiple font files in one). If you want to install these fonts you have to extract them from their collections into individual files. You can do that using [this site](https://transfonter.org/ttc-unpack).
